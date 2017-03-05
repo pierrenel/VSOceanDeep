@@ -5,8 +5,8 @@ A port of the original Vim OceanDeep theme by [tomterl](https://www.github.com/t
 ## Screenshot
 
 OceanDeeper
-![](https://raw.githubusercontent.com/pierrenel/VSOceanDeep/master/oceandeeper.png).
+![](https://raw.githubusercontent.com/pierrenel/VSOceanDeep/master/oceandeeper.png)
 
 ## More Information
-* [Visual Studio Marketplace - OceanDeeper](https://marketplace.visualstudio.com/items/pierrenel.theme-oceandeeper).
-* [GitHub repository](https://github.com/pierrenel/VSOceanDeep).
+* [Visual Studio Marketplace - OceanDeeper](https://marketplace.visualstudio.com/items/pierrenel.theme-oceandeeper)
+* [GitHub repository](https://github.com/pierrenel/VSOceanDeep)
