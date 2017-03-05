@@ -1,0 +1,24 @@
+{
+    "name": "theme-oceandeeper",
+    "displayName": "OceanDeeper",
+    "description": "A darker version of the original OceanDeep VIM theme",
+    "homepage": "https://github.com/pierrenel/VSOceanDeep/blob/master/README.md",
+    "version": "0.0.1",
+    "publisher": "pierrenel",
+    "engines": {
+        "vscode": "^1.10.0"
+    },
+    "icon": "icon.png",
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "OceanDeeper",
+                "uiTheme": "vs-dark",
+                "path": "./themes/OceanDeeper.tmTheme"
+            }
+        ]
+    }
+}
