@@ -13,4 +13,4 @@ OceanDeeper
 ## More Information
 * [Visual Studio Marketplace - OceanDeep](https://marketplace.visualstudio.com/items/pierrenel.theme-oceandeep)
 * [Visual Studio Marketplace - OceanDeeper](https://marketplace.visualstudio.com/items/pierrenel.theme-oceandeeper)
-* [GitHub repository](https://github.com/pierrenel/OceanDeep)
+* [GitHub repository](https://github.com/pierrenel/VSOceanDeep)
