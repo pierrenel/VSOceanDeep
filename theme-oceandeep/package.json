@@ -5,8 +5,15 @@
     "homepage": "https://github.com/pierrenel/VSOceanDeep/blob/master/README.md",
     "publisher": "pierrenel",
     "version": "0.0.2",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/pierrenel/VSOceanDeep.git"
+    },
     "engines": {
         "vscode": "^1.41.0"
+    },
+    "bugs": {
+        "url": "https://github.com/pierrenel/VSOceanDeep/issues"
     },
     "icon": "icon.png",
     "categories": [
