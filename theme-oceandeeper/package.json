@@ -4,7 +4,7 @@
     "description": "A port of Vim's Oceandeep syntax theme - with a darker background",
     "homepage": "https://github.com/pierrenel/VSOceanDeep/blob/master/README.md",
     "publisher": "pierrenel",
-    "version": "0.0.2",
+    "version": "0.2.1",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/pierrenel/VSOceanDeep.git"
