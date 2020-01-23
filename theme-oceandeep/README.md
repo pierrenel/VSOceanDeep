@@ -1,12 +1,13 @@
-# OceanDeeper
+# README
+## This is the README for your extension "oceandeep"
+You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
 
-A port of the original Vim OceanDeep theme by [tomterl](https://www.github.com/tomterl), but with a slightly darker background colour.
+* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
+* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
+* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
 
-## Screenshot
+### For more information
+* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
+* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
-OceanDeeper
-![](https://raw.githubusercontent.com/pierrenel/VSOceanDeep/master/oceandeeper.png)
-
-## More Information
-* [Visual Studio Marketplace - OceanDeeper](https://marketplace.visualstudio.com/items/pierrenel.theme-oceandeeper)
-* [GitHub repository](https://github.com/pierrenel/VSOceanDeep)
+**Enjoy!**
